@@ -15,5 +15,9 @@ higher level business logic on top of a solid foundation. It is deployed in many
 servers. Several commercial products are based on Foreman.
 (https://www.theforeman.org/introduction.html).
 
+# News
+
+This script enable the plugin foreman_cockpit.
+
 # License
 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
